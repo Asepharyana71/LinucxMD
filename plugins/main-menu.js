@@ -50,13 +50,16 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command }) => {
     'anime': 'Anime Menu',
     'downloader': 'Sosial Downloader',
     'ytdl': 'Youtube Downloader',
-    'group': 'Group',
     'sticker': 'Sticker',
-    'owner': 'Owner',
+    'quotes' : 'quotes',
     'internet': 'Internet',
+    'game': 'game',
+    'fun': 'fun',
+    'owner': 'Owner',
+    'group': 'Group',
     'info': 'Info',
     'tools': 'Tools',
-    'nsfw': 'Nsfw Area',
+    
   }
 
   try {

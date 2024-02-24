@@ -46,7 +46,7 @@ export async function handler(chatUpdate) {
                 if (!isNumber(user.exp))
                     user.exp = 0
                 if (!isNumber(user.limit))
-                    user.limit = 1000
+                    user.limit = 10
                 if (!isNumber(user.afk))
                     user.afk = -1
                 if (!('afkReason' in user))
@@ -58,11 +58,11 @@ export async function handler(chatUpdate) {
                 if (!('role' in user))
                     user.role = 'Free user'
                 if (!('autolevelup' in user))
-                    user.autolevelup = true
+                    user.autolevelup = false
             } else
                 global.db.data.users[m.sender] = {
                     exp: 0,
-                    limit: 1000,
+                    limit: 10,
                     lastclaim: 0,
                     registered: false,
                     name: m.name,
@@ -75,7 +75,7 @@ export async function handler(chatUpdate) {
                     warn: 0,
                     level: 0,
                     role: 'Free user',
-                    autolevelup: true,
+                    autolevelup: false,
                 }
             let chat = global.db.data.chats[m.chat]
             if (typeof chat !== 'object')
@@ -462,7 +462,7 @@ export async function handler(chatUpdate) {
  * Handle groups participants update
  * @param {import('@adiwajshing/baileys').BaileysEventMap<unknown>['group-participants.update']} groupsUpdate 
  */
-export async function participantsUpdate({ id, participants, action }) {
+/*export async function participantsUpdate({ id, participants, action }) {
     if (opts['self'])
         return
     // if (id in conn.chats) return // First login will spam
@@ -504,7 +504,7 @@ let wel = 'https://telegra.ph/file/caead5d833651946ae53f.jpg'
                 this.sendMessage(id, { text, mentions: this.parseMention(text) })
             break
     }
-}
+}*/
 
 /**
  * Handler groups update
