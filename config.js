@@ -36,32 +36,32 @@ global.nomorown = '6285224954965'
 /*============= WATERMARK =============*/
 
 global.readMore = readMore
-global.author = 'LinucxMD'
-global.namebot = 'LinucxMD ESM'
-global.wm = '©Unemployment'
+global.author = 'MythEclipse'
+global.namebot = 'MythEclipse'
+global.wm = '©MythEclipse'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.stickpack = `Sticker Dibuat dengan ${namebot}\nHubungi Owner Jika Ingin Sewabot\n+6283897390164`
-global.stickauth = `©LinucxMD 2024`
+global.stickpack = `Sticker Dibuat oleh ${namebot}`
+global.stickauth = `©MythEclipse 2024`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 //*============= SOSMED =============*/
 
 global.sig = 'https://www.instagram.com/yusupk._'
-global.sgh = 'https://github.com/NeeasTooID/'
-global.sgc = 'https://whatsapp.com/channel/0029VaEK2Vc9mrGbK9s0Iv3p'
-global.sgw = 'https://chat.whatsapp.com/CjgkxnajTPXAivDPUZgzjy'
-global.sdc = 'https://discord.com/invite/JkMqE7tHKT'
+global.sgh = 'https://github.com/Asepharyana71'
+global.sgc = 'https://whatsapp.com/channel/0029VaLlW39GU3BFtu4qq82y'
+global.sgw = 'https://www.instagram.com/asepharyana18'
+global.sdc = 'https://discord.com/invite/RUyrG5NB'
 
 /*============= DONASI =============*/
 
-global.pdana = '083897390164'
-global.povo = '083897390164'
-global.pgopay = '083897390164'
-global.ppulsa = '083897390164'
-global.psaweria = 'https://saweria.co/YUSUP909'
+global.pdana = '085224954965'
+global.povo = '085224954965'
+global.pgopay = '-'
+global.ppulsa = '085224954965'
+global.psaweria = '-'
 
 /*============= TAMPILAN =============*/
 
@@ -121,7 +121,7 @@ global.APIKeys = { // APIKey Here
   'https://api.ryzendesu.vip/': '84295850',
   'https://api.xteam.xyz': 'ebb6251cc00f9c63',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'apikeylu',
+  'https://api.lolhuman.xyz': 'e4ea69cba864dfa7d4968fdb',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -175,12 +175,21 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.thumb = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg' //Main Thumbnail
+global.thumbnailUrl = [
+  'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg'
+]
 global.imagebot = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg'
 global.giflogo = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg'
 global.thumbs = ['https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg']
 global.fotonya1 = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg' //ini juga ganti 
 global.hwaifu = ['https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg']
+global.thumblvlup = [
+  'https://i.pinimg.com/originals/a0/34/8a/a0348ae908d8ac4ced76df289eb41e1a.jpg',
+  'https://i.pinimg.com/originals/be/3b/47/be3b477371cc249e49fd0bb3284de7d7.jpg',
+  'https://i.pinimg.com/originals/63/c3/37/63c337596b3391df0e72a9729ceca7b6.jpg',
+  'https://i.pinimg.com/originals/db/ed/5a/dbed5afac55d266602d0ca0c67622bb9.jpg'
+]
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {

@@ -23,145 +23,62 @@ Terimakasih Telah Memakai Sc Ini!
                       [38;2;255;0;0m/[39m[38;2;255;36;0mu[39m[38;2;255;72;0ms[39m[38;2;255;109;0mr[39m[38;2;255;145;0m/[39m[38;2;255;182;0mb[39m[38;2;255;218;0mi[39m[38;2;255;255;0mn[39m[38;2;218;255;0m/[39m[38;2;182;255;0mn[39m[38;2;145;255;0mo[39m[38;2;109;255;0md[39m[38;2;72;255;0me[39m[38;2;36;255;0m [39m[38;2;0;255;0m/[39m[38;2;0;255;36mr[39m[38;2;0;255;72mo[39m[38;2;0;255;109mo[39m[38;2;0;255;145mt[39m[38;2;0;255;182m/[39m[38;2;0;255;218ml[39m[38;2;0;255;255mi[39m[38;2;0;218;255mn[39m[38;2;0;182;255mu[39m[38;2;0;145;255mc[39m[38;2;0;109;255mx[39m[38;2;0;72;255mm[39m[38;2;0;36;255md[39m[38;2;0;0;255m/[39m[38;2;36;0;255mm[39m[38;2;72;0;255ma[39m[38;2;109;0;255mi[39m[38;2;145;0;255mn[39m[38;2;182;0;255m.[39m[38;2;218;0;255mj[39m[38;2;255;0;255ms[39m
 
 
-(node:1567) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(node:1551) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-(node:1567) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.
+(node:1551) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.
 App listened on port 3000
 Status Aktif
 ✅ Tersambung
 Menunggu Pesan Baru
-(node:1567) [node-fetch#buffer] DeprecationWarning: Please use 'response.arrayBuffer()' instead of 'response.buffer()'
 [
   true,  true,
   true,  true,
   false, true,
   true
 ]
-INFO  [Sat, 24 Feb 2024 16:13:38 GMT]: ☑️ Quick Test Done , nama file session ~> creds.json
-▣ +62 852-2495-4965 ~Asep Haryana Saputra
-│⏰ 23:12:52 GMT+0700 (Western Indonesia Time)
-│📑 
-│📊 5 [5.0 B]
-│📤 +62 852-2495-4965 ~Asep Haryana Saputra
-│📃 7|2623|1000
-│📥 6285224954965@s.whatsapp.net ~Asep Haryana Saputra
-│💬 ExtendedText
- ⟐ ╾╴╾╴╾╴╾ ┈┈
-.menu
-
-
-▣ +62 852-2495-4965 ~Asep Haryana Saputra
-│⏰ 23:13:37 GMT+0700 (Western Indonesia Time)
-│📑 
-│📊 5 [5.0 B]
-│📤 +62 852-2495-4965 ~Asep Haryana Saputra
-│📃 4|2627|1000
-│📥 6285224954965@s.whatsapp.net ~Asep Haryana Saputra
-│💬 ExtendedText
- ⟐ ╾╴╾╴╾╴╾ ┈┈
-.menu
-
-
-[
-  '_alert.js',
-  '_allfake.js',
-  '_autoban.js',
-  '_claim-limit.js',
-  '_expired.js',
-  '_getpp.js',
-  '_premium.js',
-  '_templateResponse.js',
-  'ai-animediff.js',
-  'ai-dalle.js',
-  'ai-hd.js',
-  'ai-openai.js',
-  'ai-remini2.js',
-  'ai-tohd2.js',
-  'ai-waifu2x.js',
-  'ai-waifudiff.js',
-  'anime-fanart.js',
-  'anime-imagesearch.js',
-  'anime-info.js',
-  'anime-jadianime.js',
-  'anime-loli.js',
-  'anime-otakudesusearch.js',
-  'asupan-loli.js',
-  'downloader-apk.js',
-  'downloader-danbooru.js',
-  'downloader-facebook.js',
-  'downloader-gdrive.js',
-  'downloader-gitclone.js',
-  'downloader-ig.js',
-  'downloader-mediafire.js',
-  'downloader-mega.js',
-  'downloader-pinterest.js',
-  'downloader-pixiv.js',
-  'downloader-sfile.js',
-  'downloader-tiktok.js',
-  'downloader-tiktok_img.js',
-  'downloader-twitter.js',
-  'enable.js',
-  'exp-ceksn.js',
-  'exp-daftar.js',
-  'exp-unreg.js',
-  'expired-cek.js',
-  'expired-del.js',
-  'expired-set.js',
-  'fun-apakah.js',
-  'fun-apakah2.js',
-  'fun-generate_nama.js',
-  'fun-generate_purba.js',
-  'fun-how.js',
-  'fun-jadian.js',
-  'fun-kapankah.js',
-  'fun-kapankah2.js',
-  'fun-kerangajaib.js',
-  'fun-simi.js',
-  'fun-simi2.js',
-  'game-caklontong.js',
-  'game-caklontong_ans.js',
-  'game-caklontong_hint.js',
-  'game-family100.js',
-  'game-family100_jawaban.js',
-  'game-math.js',
-  'game-math_answer.js',
-  'game-siapakahaku.js',
-  'game-siapakahaku_ans.js',
-  'game-siapakahaku_hint.js',
-  'game-susunkata.js',
-  'game-susunkata_ans.js',
-  'game-susunkata_hint.js',
-  'games-_tictactoe.js',
-  'games-tebakkata.js',
-  'games-tebakkata_ans.js',
-  'games-tebakkata_hint.js',
-  'games-tictactoe.js',
-  'group-add.js',
-  'group-ceksewa.js',
-  'group-delete.js',
-  'group-demote.js',
-  'group-hidetag.js',
-  'group-info.js',
-  'group-link.js',
-  'group-promote.js',
-  'group-setname-gc.js',
-  'group-setppgc.js',
-  'group-settings.js',
-  'group-tagall.js',
-  'group-tagme.js',
-  'image-gimage.js',
-  'image-pinterest.js',
-  'info-creator.js',
-  'info-dashboard.js',
-  'info-grouplist.js',
-  'info-pc.js',
-  'info-report.js',
-  'info-runtime.js',
-  'info-sewa.js',
-  'info-speed.js',
-  'info-speedtest.js',
-  'info-statserver.js',
-  'info-totalfitur.js',
-  'internet-brainly.js',
-  ... 99 more items
-]
+INFO  [Mon, 26 Feb 2024 04:29:08 GMT]: ☑️ Quick Test Done , nama file session ~> creds.json
+(node:1551) [node-fetch#buffer] DeprecationWarning: Please use 'response.arrayBuffer()' instead of 'response.buffer()'
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+Error: ENOENT: no such file or directory, unlink '/tmp/audioBAE5A3C15D2F78D7'
+    at async Object.unlink (node:internal/fs/promises:1059:10)
+    at async /root/LinucxMD/node_modules/@adiwajshing/baileys/lib/Utils/messages.js:168:13
+    at async prepareWAMessageMedia (/root/LinucxMD/node_modules/@adiwajshing/baileys/lib/Utils/messages.js:124:40)
+    at async generateWAMessageContent (/root/LinucxMD/node_modules/@adiwajshing/baileys/lib/Utils/messages.js:369:13)
+    at async generateWAMessage (/root/LinucxMD/node_modules/@adiwajshing/baileys/lib/Utils/messages.js:515:59)
+    at async Object.sendMessage (/root/LinucxMD/node_modules/@adiwajshing/baileys/lib/Socket/messages-send.js:617:33) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: '/tmp/audioBAE5A3C15D2F78D7'
+} unhandledRejection
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
+[✅RECEIVED] uptime
