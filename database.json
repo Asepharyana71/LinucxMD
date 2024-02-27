@@ -12558,9 +12558,14 @@
       "pc": 1708693052582,
       "premiumTime": 1711285350718,
       "premium": false,
+<<<<<<< HEAD
       "credit": 8978000000,
       "bank": 14200000000,
 >>>>>>> 6a91b30 (aa)
+=======
+      "credit": 169338000000,
+      "bank": 1014200000000,
+>>>>>>> 8bb37ad (Your commit message here)
       "chicken": 1,
       "money": 0,
       "atm": 0,
@@ -19378,6 +19383,7 @@
       "lastSuccess": 1708958144939
     },
     "econ-slot.js": {
+<<<<<<< HEAD
       "total": 492,
       "success": 448,
       "last": 1709013433424,
@@ -19388,6 +19394,18 @@
       "success": 448,
       "last": 1709013397953,
       "lastSuccess": 1709013397953
+=======
+      "total": 676,
+      "success": 631,
+      "last": 1709014277022,
+      "lastSuccess": 1709014277022
+    },
+    "econ-wallet.js": {
+      "total": 457,
+      "success": 457,
+      "last": 1709014173253,
+      "lastSuccess": 1709014173253
+>>>>>>> 8bb37ad (Your commit message here)
     },
     "dl-play2.js": {
       "total": 3,
@@ -19440,10 +19458,14 @@
     "econ-deposit.js": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8bb37ad (Your commit message here)
       "total": 111,
       "success": 111,
       "last": 1709014199780,
       "lastSuccess": 1709014199780
+<<<<<<< HEAD
 =======
       "total": 108,
       "success": 108,
@@ -19456,6 +19478,8 @@
       "last": 1709012881048,
       "lastSuccess": 1709012881048
 >>>>>>> 6a91b30 (aa)
+=======
+>>>>>>> 8bb37ad (Your commit message here)
     },
     "econ-withdraw.js": {
       "total": 52,
