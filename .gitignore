@@ -4,3 +4,5 @@ sessions/*.json
 database.json
 .gitignore
 config.js
+cron.log
+.gitignore
