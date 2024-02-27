@@ -1,16 +1,77 @@
-node:internal/modules/package_json_reader:110
-  const parsed = modulesBinding.readPackageJSON(
-                                ^
+🐾 Starting...
 
-Error: Invalid package config /root/LinucxMD/package.json.
-    at read (node:internal/modules/package_json_reader:110:33)
-    at readPackage (node:internal/modules/package_json_reader:128:10)
-    at tryPackage (node:internal/modules/cjs/loader:436:36)
-    at Module._findPath (node:internal/modules/cjs/loader:720:18)
-    at resolveMainPath (node:internal/modules/run_main:28:23)
-    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:24)
-    at node:internal/main/run_main_module:28:49 {
-  code: 'ERR_INVALID_PACKAGE_CONFIG'
+
+                          [38;2;0;0;255m╦[39m[38;2;35;0;255m [39m[38;2;70;0;255m [39m[38;2;105;0;255m [39m[38;2;140;0;255m╦[39m[38;2;175;0;255m [39m[38;2;211;0;255m╔[39m[38;2;246;0;255m╗[39m[38;2;255;0;228m╔[39m[38;2;255;0;193m [39m[38;2;255;0;158m╦[39m[38;2;255;0;123m [39m[38;2;255;0;87m╦[39m[38;2;255;0;52m [39m[38;2;255;0;17m╔[39m[38;2;255;17;0m═[39m[38;2;255;52;0m╗[39m[38;2;255;87;0m [39m[38;2;255;123;0m [39m[38;2;255;158;0m╦[39m[38;2;255;193;0m [39m[38;2;255;228;0m╦[39m[38;2;246;255;0m [39m[38;2;211;255;0m╔[39m[38;2;175;255;0m╦[39m[38;2;140;255;0m╗[39m[38;2;105;255;0m [39m[38;2;70;255;0m╔[39m[38;2;35;255;0m╦[39m[38;2;0;255;0m╗[39m
+                          [38;2;0;0;255m║[39m[38;2;35;0;255m [39m[38;2;70;0;255m [39m[38;2;105;0;255m [39m[38;2;140;0;255m║[39m[38;2;175;0;255m [39m[38;2;211;0;255m║[39m[38;2;246;0;255m║[39m[38;2;255;0;228m║[39m[38;2;255;0;193m [39m[38;2;255;0;158m║[39m[38;2;255;0;123m [39m[38;2;255;0;87m║[39m[38;2;255;0;52m [39m[38;2;255;0;17m║[39m[38;2;255;17;0m [39m[38;2;255;52;0m [39m[38;2;255;87;0m [39m[38;2;255;123;0m╔[39m[38;2;255;158;0m╩[39m[38;2;255;193;0m╦[39m[38;2;255;228;0m╝[39m[38;2;246;255;0m [39m[38;2;211;255;0m║[39m[38;2;175;255;0m║[39m[38;2;140;255;0m║[39m[38;2;105;255;0m [39m[38;2;70;255;0m [39m[38;2;35;255;0m║[39m[38;2;0;255;0m║[39m
+                          [38;2;0;0;255m╩[39m[38;2;35;0;255m═[39m[38;2;70;0;255m╝[39m[38;2;105;0;255m [39m[38;2;140;0;255m╩[39m[38;2;175;0;255m [39m[38;2;211;0;255m╝[39m[38;2;246;0;255m╚[39m[38;2;255;0;228m╝[39m[38;2;255;0;193m [39m[38;2;255;0;158m╚[39m[38;2;255;0;123m═[39m[38;2;255;0;87m╝[39m[38;2;255;0;52m [39m[38;2;255;0;17m╚[39m[38;2;255;17;0m═[39m[38;2;255;52;0m╝[39m[38;2;255;87;0m [39m[38;2;255;123;0m╩[39m[38;2;255;158;0m [39m[38;2;255;193;0m╩[39m[38;2;255;228;0m [39m[38;2;246;255;0m [39m[38;2;211;255;0m╩[39m[38;2;175;255;0m [39m[38;2;140;255;0m╩[39m[38;2;105;255;0m [39m[38;2;70;255;0m═[39m[38;2;35;255;0m╩[39m[38;2;0;255;0m╝[39m
+
+
+
+
+                         [38;2;0;0;255mw[39m[38;2;35;0;255mh[39m[38;2;70;0;255ma[39m[38;2;105;0;255mt[39m[38;2;140;0;255ms[39m[38;2;175;0;255ma[39m[38;2;211;0;255mp[39m[38;2;246;0;255mp[39m[38;2;255;0;228m [39m[38;2;255;0;193mb[39m[38;2;255;0;158mo[39m[38;2;255;0;123mt[39m[38;2;255;0;87m [39m[38;2;255;0;52me[39m[38;2;255;0;17ms[39m[38;2;255;17;0mm[39m[38;2;255;52;0m [39m[38;2;255;87;0mb[39m[38;2;255;123;0my[39m[38;2;255;158;0m [39m[38;2;255;193;0my[39m[38;2;255;228;0mu[39m[38;2;246;255;0ms[39m[38;2;211;255;0mu[39m[38;2;175;255;0mp[39m[38;2;140;255;0mk[39m[38;2;105;255;0ma[39m[38;2;70;255;0mk[39m[38;2;35;255;0mu[39m[38;2;0;255;0mu[39m
+
+
+
+LinucxMD
+Author: YusupKakuu
+WA    : +6283897390164
+
+Terimakasih Telah Memakai Sc Ini!
+
+
+
+                      [38;2;255;0;0m/[39m[38;2;255;36;0mu[39m[38;2;255;72;0ms[39m[38;2;255;109;0mr[39m[38;2;255;145;0m/[39m[38;2;255;182;0mb[39m[38;2;255;218;0mi[39m[38;2;255;255;0mn[39m[38;2;218;255;0m/[39m[38;2;182;255;0mn[39m[38;2;145;255;0mo[39m[38;2;109;255;0md[39m[38;2;72;255;0me[39m[38;2;36;255;0m [39m[38;2;0;255;0m/[39m[38;2;0;255;36mr[39m[38;2;0;255;72mo[39m[38;2;0;255;109mo[39m[38;2;0;255;145mt[39m[38;2;0;255;182m/[39m[38;2;0;255;218ml[39m[38;2;0;255;255mi[39m[38;2;0;218;255mn[39m[38;2;0;182;255mu[39m[38;2;0;145;255mc[39m[38;2;0;109;255mx[39m[38;2;0;72;255mm[39m[38;2;0;36;255md[39m[38;2;0;0;255m/[39m[38;2;36;0;255mm[39m[38;2;72;0;255ma[39m[38;2;109;0;255mi[39m[38;2;145;0;255mn[39m[38;2;182;0;255m.[39m[38;2;218;0;255mj[39m[38;2;255;0;255ms[39m
+
+
+(node:1653) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:1653) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.
+App listened on port 3000
+Status Aktif
+✅ Tersambung
+Menunggu Pesan Baru
+ERROR  [Tue, 27 Feb 2024 07:19:19 GMT]: Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@google/generative-ai' imported from /root/LinucxMD/plugins/GURU-gemini.js
+    at packageResolve (node:internal/modules/esm/resolve:844:9)
+    at moduleResolve (node:internal/modules/esm/resolve:901:20)
+    at defaultResolve (node:internal/modules/esm/resolve:1131:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:390:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:359:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:234:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND'
 }
+[
+  true,  true,
+  true,  true,
+  false, true,
+  true
+]
+INFO  [Tue, 27 Feb 2024 07:19:19 GMT]: ☑️ Quick Test Done , nama file session ~> creds.json
+ERROR  [Tue, 27 Feb 2024 07:19:20 GMT]: SyntaxError: Unexpected token '<<'
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+    at callTranslator (node:internal/modules/esm/loader:279:14)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:285:30)
+    at async link (node:internal/modules/esm/module_job:76:21)
+▣ +62 852-2495-4965 ~Asep Haryana Saputra
+│⏰ 14:16:15 GMT+0700 (Western Indonesia Time)
+│📑 
+│📊 8988 [8.9 KB]
+│📤 +62 897-7072-765 ~リオ
+│📃 8|8|10
+│📥 120363178185676699@g.us ~KING JAWIR GEAR 6
+│💬 Sticker
+ ⟐ ╾╴╾╴╾╴╾ ┈┈
 
-Node.js v21.6.2
+
+Error: ENOENT: no such file or directory, scandir '/root/LinucxMD/tmp'
+    at readdirSync (node:fs:1509:26)
+    at file:///root/LinucxMD/main.js:186:28
+    at Array.forEach (<anonymous>)
+    at clearTmp (file:///root/LinucxMD/main.js:186:9)
+    at Timeout._onTimeout (file:///root/LinucxMD/main.js:178:9) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/root/LinucxMD/tmp'
+} unhandledRejection
