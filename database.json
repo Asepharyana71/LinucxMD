@@ -12540,7 +12540,11 @@
       "lastcf": 1708956416040
     },
     "6281229266853@s.whatsapp.net": {
+<<<<<<< HEAD
       "exp": 19989,
+=======
+      "exp": 22100,
+>>>>>>> 73f538f (Your commit message here)
       "limit": 990,
       "lastclaim": 1708911180373,
       "registered": true,
@@ -12559,11 +12563,15 @@
       "premiumTime": 1711285350718,
       "premium": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
       "credit": 8978000000,
       "bank": 14200000000,
 >>>>>>> 6a91b30 (aa)
 =======
       "credit": 169338000000,
+=======
+      "credit": 168338000000,
+>>>>>>> 73f538f (Your commit message here)
       "bank": 1014200000000,
 >>>>>>> 8bb37ad (Your commit message here)
       "chicken": 1,
@@ -12622,11 +12630,19 @@
       "note": 0,
       "limitjoin": 10,
       "lastwork": 1708951328868,
+<<<<<<< HEAD
       "lastslot": 1709013432665,
       "lastcf": 1709001329711
     },
     "62895345509929@s.whatsapp.net": {
       "exp": 4110,
+=======
+      "lastslot": 1709014284924,
+      "lastcf": 1709001329711
+    },
+    "62895345509929@s.whatsapp.net": {
+      "exp": 6464,
+>>>>>>> 73f538f (Your commit message here)
       "limit": 999,
       "lastclaim": 1708910789147,
       "registered": true,
@@ -12641,7 +12657,11 @@
       "level": 0,
       "role": "Free user",
       "autolevelup": true,
+<<<<<<< HEAD
       "credit": 43235964108,
+=======
+      "credit": 113285964108,
+>>>>>>> 73f538f (Your commit message here)
       "bank": 0,
       "chicken": 0,
       "money": 0,
@@ -12701,7 +12721,11 @@
       "premiumTime": 0,
       "limitjoin": 10,
       "lastwork": 1708931418786,
+<<<<<<< HEAD
       "lastslot": 1709013426739,
+=======
+      "lastslot": 1709014290092,
+>>>>>>> 73f538f (Your commit message here)
       "lastcf": 1709013093400
 =======
       "lastslot": 1709012833728,
@@ -19384,6 +19408,7 @@
     },
     "econ-slot.js": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "total": 492,
       "success": 448,
       "last": 1709013433424,
@@ -19399,6 +19424,12 @@
       "success": 631,
       "last": 1709014277022,
       "lastSuccess": 1709014277022
+=======
+      "total": 681,
+      "success": 636,
+      "last": 1709014291130,
+      "lastSuccess": 1709014291130
+>>>>>>> 73f538f (Your commit message here)
     },
     "econ-wallet.js": {
       "total": 457,
