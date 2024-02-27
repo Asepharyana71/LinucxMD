@@ -12547,6 +12547,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "exp": 22100,
 =======
       "exp": 18371,
@@ -12557,6 +12558,9 @@
 =======
       "exp": 19398,
 >>>>>>> 89a74ff (test)
+=======
+      "exp": 19989,
+>>>>>>> ae1b845 (Your commit message here)
       "limit": 990,
       "lastclaim": 1708911180373,
       "registered": true,
@@ -12577,6 +12581,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "credit": 168338000000,
       "bank": 1014200000000,
 =======
@@ -12588,6 +12593,9 @@
 =======
       "credit": 4218000000,
 >>>>>>> 89a74ff (test)
+=======
+      "credit": 8978000000,
+>>>>>>> ae1b845 (Your commit message here)
       "bank": 14200000000,
 >>>>>>> 6a91b30 (aa)
       "chicken": 1,
@@ -12649,6 +12657,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "lastslot": 1709014284924,
       "lastcf": 1709001329711
     },
@@ -12675,6 +12684,13 @@
     "62895345509929@s.whatsapp.net": {
       "exp": 3679,
 >>>>>>> 89a74ff (test)
+=======
+      "lastslot": 1709013432665,
+      "lastcf": 1709001329711
+    },
+    "62895345509929@s.whatsapp.net": {
+      "exp": 4110,
+>>>>>>> ae1b845 (Your commit message here)
       "limit": 999,
       "lastclaim": 1708910789147,
       "registered": true,
@@ -12692,6 +12708,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "credit": 113285964108,
 =======
       "credit": 113964108,
@@ -12702,6 +12719,9 @@
 =======
       "credit": 375964108,
 >>>>>>> 89a74ff (test)
+=======
+      "credit": 43235964108,
+>>>>>>> ae1b845 (Your commit message here)
       "bank": 0,
       "chicken": 0,
       "money": 0,
@@ -12764,7 +12784,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "lastslot": 1709014290092,
+=======
+      "lastslot": 1709013426739,
+>>>>>>> ae1b845 (Your commit message here)
       "lastcf": 1709013093400
 =======
       "lastslot": 1709012833728,
@@ -19453,6 +19477,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "total": 681,
       "success": 636,
       "last": 1709014291130,
@@ -19499,6 +19524,18 @@
       "last": 1709013173762,
       "lastSuccess": 1709013173762
 >>>>>>> 89a74ff (test)
+=======
+      "total": 492,
+      "success": 448,
+      "last": 1709013433424,
+      "lastSuccess": 1709013433424
+    },
+    "econ-wallet.js": {
+      "total": 448,
+      "success": 448,
+      "last": 1709013397953,
+      "lastSuccess": 1709013397953
+>>>>>>> ae1b845 (Your commit message here)
     },
     "dl-play2.js": {
       "total": 3,
