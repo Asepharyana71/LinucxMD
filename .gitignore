@@ -4,3 +4,4 @@ sessions/*.json
 database.json
 .gitignore
 config.js
+/.vs
