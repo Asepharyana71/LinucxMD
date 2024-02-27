@@ -12460,7 +12460,11 @@
       "autolevelup": true
     },
     "6285224954965@s.whatsapp.net": {
+<<<<<<< HEAD
       "exp": 11517,
+=======
+      "exp": 11452,
+>>>>>>> 3f67766 (update)
       "limit": 1000,
       "lastclaim": 1708866444422,
       "registered": true,
@@ -12540,7 +12544,11 @@
       "lastcf": 1708956416040
     },
     "6281229266853@s.whatsapp.net": {
+<<<<<<< HEAD
       "exp": 22100,
+=======
+      "exp": 18371,
+>>>>>>> 3f67766 (update)
       "limit": 990,
       "lastclaim": 1708911180373,
       "registered": true,
@@ -12558,8 +12566,13 @@
       "pc": 1708693052582,
       "premiumTime": 1711285350718,
       "premium": false,
+<<<<<<< HEAD
       "credit": 168338000000,
       "bank": 1014200000000,
+=======
+      "credit": 4838000000,
+      "bank": 10200000000,
+>>>>>>> 3f67766 (update)
       "chicken": 1,
       "money": 0,
       "atm": 0,
@@ -12616,11 +12629,19 @@
       "note": 0,
       "limitjoin": 10,
       "lastwork": 1708951328868,
+<<<<<<< HEAD
       "lastslot": 1709014284924,
       "lastcf": 1709001329711
     },
     "62895345509929@s.whatsapp.net": {
       "exp": 6464,
+=======
+      "lastslot": 1709012811661,
+      "lastcf": 1709001329711
+    },
+    "62895345509929@s.whatsapp.net": {
+      "exp": 2795,
+>>>>>>> 3f67766 (update)
       "limit": 999,
       "lastclaim": 1708910789147,
       "registered": true,
@@ -12635,9 +12656,13 @@
       "level": 0,
       "role": "Free user",
       "autolevelup": true,
+<<<<<<< HEAD
       "credit": 113285964108,
+=======
+      "credit": 113964108,
+>>>>>>> 3f67766 (update)
       "bank": 0,
-      "chicken": 0,
+      "chicken": 1,
       "money": 0,
       "atm": 0,
       "fullatm": 0,
@@ -12695,8 +12720,13 @@
       "premiumTime": 0,
       "limitjoin": 10,
       "lastwork": 1708931418786,
+<<<<<<< HEAD
       "lastslot": 1709014290092,
       "lastcf": 1709013093400
+=======
+      "lastslot": 1709012833728,
+      "lastcf": 1709011923027
+>>>>>>> 3f67766 (update)
     },
     "6285285613899@s.whatsapp.net": {
       "exp": 25,
@@ -12716,7 +12746,11 @@
       "autolevelup": true
     },
     "6283115051727@s.whatsapp.net": {
+<<<<<<< HEAD
       "exp": 66145,
+=======
+      "exp": 65929,
+>>>>>>> 3f67766 (update)
       "limit": 957,
       "lastclaim": 1708957958040,
       "registered": true,
@@ -12733,7 +12767,11 @@
       "autolevelup": true,
       "premiumTime": 0,
       "premium": false,
+<<<<<<< HEAD
       "credit": 4099955000,
+=======
+      "credit": 4199955000,
+>>>>>>> 3f67766 (update)
       "bank": 121929256000,
       "chicken": 0,
       "money": 0,
@@ -12791,12 +12829,20 @@
       "note": 0,
       "limitjoin": 10,
       "lastwork": 1708958132925,
+<<<<<<< HEAD
       "lastslot": 1709013068560,
+=======
+      "lastslot": 1709011792463,
+>>>>>>> 3f67766 (update)
       "lastrob": 1708957722103,
       "lastcf": 1709012252809
     },
     "6285520736786@s.whatsapp.net": {
+<<<<<<< HEAD
       "exp": 68,
+=======
+      "exp": 89,
+>>>>>>> 3f67766 (update)
       "limit": 1000,
       "lastclaim": 0,
       "registered": false,
@@ -13021,7 +13067,11 @@
       "note": 0
     },
     "6281311754743@s.whatsapp.net": {
+<<<<<<< HEAD
       "exp": 10984,
+=======
+      "exp": 10887,
+>>>>>>> 3f67766 (update)
       "limit": 976,
       "lastclaim": 1708910786042,
       "registered": true,
@@ -19313,10 +19363,17 @@
       "lastSuccess": 1708913145828
     },
     "econ-bank.js": {
+<<<<<<< HEAD
       "total": 117,
       "success": 117,
       "last": 1709012999237,
       "lastSuccess": 1709012999237
+=======
+      "total": 116,
+      "success": 116,
+      "last": 1709012576369,
+      "lastSuccess": 1709012576369
+>>>>>>> 3f67766 (update)
     },
     "econ-work.js": {
       "total": 34,
@@ -19325,6 +19382,7 @@
       "lastSuccess": 1708958144939
     },
     "econ-slot.js": {
+<<<<<<< HEAD
       "total": 681,
       "success": 636,
       "last": 1709014291130,
@@ -19335,6 +19393,18 @@
       "success": 457,
       "last": 1709014173253,
       "lastSuccess": 1709014173253
+=======
+      "total": 368,
+      "success": 332,
+      "last": 1709012834480,
+      "lastSuccess": 1709012834480
+    },
+    "econ-wallet.js": {
+      "total": 441,
+      "success": 441,
+      "last": 1709012816241,
+      "lastSuccess": 1709012816241
+>>>>>>> 3f67766 (update)
     },
     "dl-play2.js": {
       "total": 3,
@@ -19385,10 +19455,17 @@
       "lastSuccess": 1709001960850
     },
     "econ-deposit.js": {
+<<<<<<< HEAD
       "total": 111,
       "success": 111,
       "last": 1709014199780,
       "lastSuccess": 1709014199780
+=======
+      "total": 108,
+      "success": 108,
+      "last": 1709012572881,
+      "lastSuccess": 1709012572881
+>>>>>>> 3f67766 (update)
     },
     "econ-withdraw.js": {
       "total": 52,
@@ -19409,6 +19486,7 @@
       "lastSuccess": 1708931698167
     },
     "econ-buychicken.js": {
+<<<<<<< HEAD
       "total": 392,
       "success": 392,
       "last": 1709013058006,
@@ -19419,6 +19497,18 @@
       "success": 670,
       "last": 1709013093400,
       "lastSuccess": 1709013093400
+=======
+      "total": 391,
+      "success": 391,
+      "last": 1709012247167,
+      "lastSuccess": 1709012247167
+    },
+    "econ-chickenfight.js": {
+      "total": 753,
+      "success": 668,
+      "last": 1709012252810,
+      "lastSuccess": 1709012252810
+>>>>>>> 3f67766 (update)
     },
     "econ-give-gold.js": {
       "total": 22,
