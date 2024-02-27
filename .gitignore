@@ -3,3 +3,4 @@ package-lock.json
 sessions/*.json
 database.json
 .gitignore
+config.js

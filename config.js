@@ -141,16 +141,10 @@ global.btc = 'tMNbXw3t' // By YusupKakuu
 global.xzn = 'npnpicyy' // By YusupKakuu
 global.ryzen = '84295850' // daftar di api.ryzendesu.vip/
 global.lol = 'e4ea69cba864dfa7d4968fdb' // SGWN
-<<<<<<< HEAD
-=======
 global.lolkey = 'e4ea69cba864dfa7d4968fdb'
 global.rose = 'Rs-putangina' // Free
 global.caliph = 'Lwlct6wi'
 global.zenzkey = 'b8040941f7'
->>>>>>> fb1e42e (  #Please enter the commit message for your changes. Lines starting)
-
-/*============= OTHER =============*/
-
 global.thumbnailUrl = [
   'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg'
 ]
