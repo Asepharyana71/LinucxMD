@@ -5,7 +5,7 @@ import moment from 'moment-timezone'
 import os from 'os'
 import fs from 'fs'
 import fetch from 'node-fetch'
-//import jimp from 'jimp'
+import jimp from 'jimp'
 import PhoneNumber from 'awesome-phonenumber'
 
 const { generateWAMessageFromContent, proto } = (await import('@adiwajshing/baileys')).default

@@ -578,3 +578,10 @@ watchFile(file, async () => {
     console.log(chalk.redBright("Update 'handler.js'"))
     if (global.reloadHandler) console.log(await global.reloadHandler())
 })
+
+
+// Example 1: Logging received messages
+console.log('Received message:', m)
+
+// Example 2: Sending a reply message
+this.sendMessage(m.chat, 'This is a reply message').catch(console.error)
