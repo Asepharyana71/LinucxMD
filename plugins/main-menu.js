@@ -384,22 +384,11 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command }) => {
             catch (e) {
                 conn.reply(m.chat, 'Maaf, menu sedang error', m)
                 throw e
-            }
+                }
         }
-    }
-    catch (e) {
-        conn.reply(m.chat, 'Maaf, menu sedang error', m)
-        throw e
-    }
-}
-
-
-
-
-
-handler.help = ['menu']
-handler.tags = ['main']
-handler.command = /^(allmenu|menu|help|\?)$/i
+        handler.help = ['menu']
+        handler.tags = ['main']
+        handler.command = /^(allmenu|menu|help|\?)$/i
 
 handler.register = true
 handler.exp = 3
