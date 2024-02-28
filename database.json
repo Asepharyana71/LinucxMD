@@ -12460,7 +12460,7 @@
       "autolevelup": true
     },
     "6285224954965@s.whatsapp.net": {
-      "exp": 11517,
+      "exp": 11751,
       "limit": 1000,
       "lastclaim": 1708866444422,
       "registered": true,
@@ -12540,7 +12540,7 @@
       "lastcf": 1708956416040
     },
     "6281229266853@s.whatsapp.net": {
-      "exp": 22100,
+      "exp": 23216,
       "limit": 990,
       "lastclaim": 1708911180373,
       "registered": true,
@@ -12558,7 +12558,7 @@
       "pc": 1708693052582,
       "premiumTime": 1711285350718,
       "premium": false,
-      "credit": 168338000000,
+      "credit": 392738000000,
       "bank": 1014200000000,
       "chicken": 1,
       "money": 0,
@@ -12616,11 +12616,11 @@
       "note": 0,
       "limitjoin": 10,
       "lastwork": 1708951328868,
-      "lastslot": 1709014284924,
+      "lastslot": 1709125077280,
       "lastcf": 1709001329711
     },
     "62895345509929@s.whatsapp.net": {
-      "exp": 6464,
+      "exp": 6630,
       "limit": 999,
       "lastclaim": 1708910789147,
       "registered": true,
@@ -12716,7 +12716,7 @@
       "autolevelup": true
     },
     "6283115051727@s.whatsapp.net": {
-      "exp": 66145,
+      "exp": 66493,
       "limit": 957,
       "lastclaim": 1708957958040,
       "registered": true,
@@ -12733,7 +12733,7 @@
       "autolevelup": true,
       "premiumTime": 0,
       "premium": false,
-      "credit": 4099955000,
+      "credit": 3094957250,
       "bank": 121929256000,
       "chicken": 0,
       "money": 0,
@@ -12791,7 +12791,7 @@
       "note": 0,
       "limitjoin": 10,
       "lastwork": 1708958132925,
-      "lastslot": 1709013068560,
+      "lastslot": 1709125571943,
       "lastrob": 1708957722103,
       "lastcf": 1709012252809
     },
@@ -13021,9 +13021,9 @@
       "note": 0
     },
     "6281311754743@s.whatsapp.net": {
-      "exp": 10984,
+      "exp": 11634,
       "limit": 976,
-      "lastclaim": 1708910786042,
+      "lastclaim": 1709124627616,
       "registered": true,
       "name": "gans",
       "age": 20,
@@ -13038,7 +13038,7 @@
       "autolevelup": true,
       "premiumTime": 1734692836231,
       "premium": false,
-      "credit": 9988406407,
+      "credit": 12056402788,
       "bank": 3791214025,
       "chicken": 0,
       "money": 0,
@@ -13095,10 +13095,10 @@
       "lastbunga": 0,
       "note": 0,
       "limitjoin": 10,
-      "lastslot": 1709013666867,
-      "lastwork": 1708958144939,
-      "lastcf": 1709001471464,
-      "lastrob": 1708957694413
+      "lastslot": 1709125017801,
+      "lastwork": 1709124631279,
+      "lastcf": 1709124676028,
+      "lastrob": "2024-02-28T12:49:50.775Z"
     },
     "628128900544@s.whatsapp.net": {
       "exp": 2,
@@ -13425,7 +13425,7 @@
       "autolevelup": false
     },
     "6289661990536@s.whatsapp.net": {
-      "exp": 168,
+      "exp": 173,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
@@ -13651,7 +13651,7 @@
       "limitjoin": 10
     },
     "6281294190617@s.whatsapp.net": {
-      "exp": 27,
+      "exp": 34,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
@@ -14266,7 +14266,7 @@
       "note": 0
     },
     "6283156996256@s.whatsapp.net": {
-      "exp": 331,
+      "exp": 374,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
@@ -15525,6 +15525,150 @@
       "lastclaim": 0,
       "registered": false,
       "name": "Aku 🙏",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "banReason": "",
+      "warn": 0,
+      "level": 0,
+      "role": "Free user",
+      "autolevelup": false,
+      "money": 0,
+      "atm": 0,
+      "fullatm": 0,
+      "health": 100,
+      "potion": 10,
+      "trash": 0,
+      "wood": 0,
+      "rock": 0,
+      "string": 0,
+      "emerald": 0,
+      "diamond": 0,
+      "gold": 0,
+      "iron": 0,
+      "upgrader": 0,
+      "common": 0,
+      "uncommon": 0,
+      "mythic": 0,
+      "legendary": 0,
+      "superior": 0,
+      "pet": 0,
+      "horse": 0,
+      "horseexp": 0,
+      "cat": 0,
+      "catngexp": 0,
+      "fox": 0,
+      "foxexp": 0,
+      "dog": 0,
+      "dogexp": 0,
+      "horselastfeed": 0,
+      "catlastfeed": 0,
+      "foxlastfeed": 0,
+      "doglastfeed": 0,
+      "armor": 0,
+      "armordurability": 0,
+      "sword": 0,
+      "sworddurability": 0,
+      "pickaxe": 0,
+      "pickaxedurability": 0,
+      "fishingrod": 0,
+      "fishingroddurability": 0,
+      "lastadventure": 0,
+      "lastfishing": 0,
+      "lastdungeon": 0,
+      "lastduel": 0,
+      "lastmining": 0,
+      "lasthunt": 0,
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "lastbunga": 0,
+      "note": 0
+    },
+    "6282118869765@s.whatsapp.net": {
+      "exp": 10,
+      "credit": 0,
+      "bank": 0,
+      "chicken": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Idris",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "banReason": "",
+      "warn": 0,
+      "level": 0,
+      "role": "Free user",
+      "autolevelup": false,
+      "money": 0,
+      "atm": 0,
+      "fullatm": 0,
+      "health": 100,
+      "potion": 10,
+      "trash": 0,
+      "wood": 0,
+      "rock": 0,
+      "string": 0,
+      "emerald": 0,
+      "diamond": 0,
+      "gold": 0,
+      "iron": 0,
+      "upgrader": 0,
+      "common": 0,
+      "uncommon": 0,
+      "mythic": 0,
+      "legendary": 0,
+      "superior": 0,
+      "pet": 0,
+      "horse": 0,
+      "horseexp": 0,
+      "cat": 0,
+      "catngexp": 0,
+      "fox": 0,
+      "foxexp": 0,
+      "dog": 0,
+      "dogexp": 0,
+      "horselastfeed": 0,
+      "catlastfeed": 0,
+      "foxlastfeed": 0,
+      "doglastfeed": 0,
+      "armor": 0,
+      "armordurability": 0,
+      "sword": 0,
+      "sworddurability": 0,
+      "pickaxe": 0,
+      "pickaxedurability": 0,
+      "fishingrod": 0,
+      "fishingroddurability": 0,
+      "lastadventure": 0,
+      "lastfishing": 0,
+      "lastdungeon": 0,
+      "lastduel": 0,
+      "lastmining": 0,
+      "lasthunt": 0,
+      "lastweekly": 0,
+      "lastmonthly": 0,
+      "lastbunga": 0,
+      "note": 0,
+      "petFood": 0,
+      "catexp": 0,
+      "robo": 0,
+      "roboxp": 0
+    },
+    "120363232383993712@g.us": {
+      "exp": 5,
+      "credit": 0,
+      "bank": 0,
+      "chicken": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": {},
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -18739,6 +18883,27 @@
       "simi": false,
       "chatgpt": false,
       "nsfw": false
+    },
+    "120363232383993712@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "expired": 0,
+      "autoSticker": false,
+      "premium": false,
+      "premiumTime": false,
+      "menu": true,
+      "antiLink": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "simi": false,
+      "chatgpt": false,
+      "nsfw": false
     }
   },
   "stats": {
@@ -18749,10 +18914,10 @@
       "lastSuccess": 1708736795537
     },
     "main-menu.js": {
-      "total": 493,
-      "success": 492,
-      "last": 1708951287813,
-      "lastSuccess": 1708951287813
+      "total": 495,
+      "success": 494,
+      "last": 1709126307828,
+      "lastSuccess": 1709126307828
     },
     "sticker-sticker.js": {
       "total": 368,
@@ -18821,10 +18986,10 @@
       "lastSuccess": 1708268653940
     },
     "info-speed.js": {
-      "total": 45,
-      "success": 45,
-      "last": 1708791820774,
-      "lastSuccess": 1708791820774
+      "total": 47,
+      "success": 47,
+      "last": 1709124281553,
+      "lastSuccess": 1709124281553
     },
     "ai-hd.js": {
       "total": 139,
@@ -19271,9 +19436,9 @@
       "lastSuccess": 1708771360496
     },
     "nsfw.js": {
-      "total": 35,
+      "total": 36,
       "success": 25,
-      "last": 1708935225292,
+      "last": 1709124447032,
       "lastSuccess": 1708935225292
     },
     "ai-animediff.js": {
@@ -19313,28 +19478,28 @@
       "lastSuccess": 1708913145828
     },
     "econ-bank.js": {
-      "total": 117,
-      "success": 117,
-      "last": 1709012999237,
-      "lastSuccess": 1709012999237
+      "total": 121,
+      "success": 121,
+      "last": 1709124563278,
+      "lastSuccess": 1709124563278
     },
     "econ-work.js": {
-      "total": 34,
-      "success": 31,
-      "last": 1708958144939,
-      "lastSuccess": 1708958144939
+      "total": 35,
+      "success": 32,
+      "last": 1709124631279,
+      "lastSuccess": 1709124631279
     },
     "econ-slot.js": {
-      "total": 681,
-      "success": 636,
-      "last": 1709014291130,
-      "lastSuccess": 1709014291130
+      "total": 738,
+      "success": 690,
+      "last": 1709125572797,
+      "lastSuccess": 1709125572797
     },
     "econ-wallet.js": {
-      "total": 457,
-      "success": 457,
-      "last": 1709014173253,
-      "lastSuccess": 1709014173253
+      "total": 467,
+      "success": 467,
+      "last": 1709125535069,
+      "lastSuccess": 1709125535069
     },
     "dl-play2.js": {
       "total": 3,
@@ -19343,10 +19508,10 @@
       "lastSuccess": 1708936253672
     },
     "econ-daily.js": {
-      "total": 21,
-      "success": 8,
-      "last": 1708957958041,
-      "lastSuccess": 1708957958041
+      "total": 22,
+      "success": 9,
+      "last": 1709124627617,
+      "lastSuccess": 1709124627617
     },
     "econ-levelup.js": {
       "total": 3,
@@ -19379,10 +19544,10 @@
       "lastSuccess": 1708948752000
     },
     "econ-rob.js": {
-      "total": 15,
-      "success": 9,
-      "last": 1709001960850,
-      "lastSuccess": 1709001960850
+      "total": 16,
+      "success": 10,
+      "last": 1709124590812,
+      "lastSuccess": 1709124590812
     },
     "econ-deposit.js": {
       "total": 111,
@@ -19397,10 +19562,10 @@
       "lastSuccess": 1709011518250
     },
     "econ-roulette.js": {
-      "total": 516,
-      "success": 489,
-      "last": 1709012551439,
-      "lastSuccess": 1709012551439
+      "total": 524,
+      "success": 497,
+      "last": 1709125471182,
+      "lastSuccess": 1709125471182
     },
     "game-siapakahaku.js": {
       "total": 3,
@@ -19409,22 +19574,22 @@
       "lastSuccess": 1708931698167
     },
     "econ-buychicken.js": {
-      "total": 392,
-      "success": 392,
-      "last": 1709013058006,
-      "lastSuccess": 1709013058006
+      "total": 393,
+      "success": 393,
+      "last": 1709124668723,
+      "lastSuccess": 1709124668723
     },
     "econ-chickenfight.js": {
-      "total": 755,
-      "success": 670,
-      "last": 1709013093400,
-      "lastSuccess": 1709013093400
+      "total": 756,
+      "success": 671,
+      "last": 1709124676030,
+      "lastSuccess": 1709124676030
     },
     "econ-give-gold.js": {
-      "total": 22,
-      "success": 22,
-      "last": 1709011850535,
-      "lastSuccess": 1709011850535
+      "total": 23,
+      "success": 23,
+      "last": 1709124542784,
+      "lastSuccess": 1709124542784
     },
     "anime-waifupics.js": {
       "total": 3,
