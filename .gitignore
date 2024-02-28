@@ -1,5 +1,8 @@
 node_modules
 package-lock.json
 sessions/*.json
-/.vs/LinucxMD/v17
-/.vs
+database.json
+.gitignore
+config.js
+cron.log
+.gitignore

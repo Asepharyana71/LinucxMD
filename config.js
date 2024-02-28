@@ -42,7 +42,7 @@ global.wm = '©MythEclipse'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.stickpack = `Sticker Dibuat dengan ${namebot}`
+global.stickpack = `Sticker Dibuat oleh ${namebot}`
 global.stickauth = `©MythEclipse 2024`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
@@ -50,10 +50,10 @@ global.wibb = `${wktuwib}`
 //*============= SOSMED =============*/
 
 global.sig = 'https://www.instagram.com/yusupk._'
-global.sgh = 'https://github.com/NeeasTooID/'
-global.sgc = 'https://whatsapp.com/channel/0029VaEK2Vc9mrGbK9s0Iv3p'
-global.sgw = 'https://chat.whatsapp.com/CjgkxnajTPXAivDPUZgzjy'
-global.sdc = 'https://discord.com/invite/JkMqE7tHKT'
+global.sgh = 'https://github.com/Asepharyana71'
+global.sgc = 'https://whatsapp.com/channel/0029VaLlW39GU3BFtu4qq82y'
+global.sgw = 'https://www.instagram.com/asepharyana18'
+global.sdc = 'https://discord.com/invite/RUyrG5NB'
 
 /*============= DONASI =============*/
 
@@ -145,9 +145,6 @@ global.lolkey = 'e4ea69cba864dfa7d4968fdb'
 global.rose = 'Rs-putangina' // Free
 global.caliph = 'Lwlct6wi'
 global.zenzkey = 'b8040941f7'
-
-/*============= OTHER =============*/
-
 global.thumbnailUrl = [
   'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg'
 ]
