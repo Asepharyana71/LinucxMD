@@ -6,3 +6,4 @@ database.json
 config.js
 cron.log
 .gitignore
+/.vs
