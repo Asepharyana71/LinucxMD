@@ -761,3 +761,21 @@ watchFile(file, async () => {
     console.log(chalk.redBright("Update 'handler.js'"))
     if (global.reloadHandler) console.log(await global.reloadHandler())
 })
+
+/**
+ * Log incoming messages
+ * @param {import('@adiwajshing/baileys').BaileysEventMap<unknown>['messages.upsert']} chatUpdate 
+ */
+export async function logIncomingMessages(chatUpdate) {
+  // Check if chatUpdate is not null
+  if (!chatUpdate) return;
+
+  // Get the last message from the chatUpdate
+  let message = chatUpdate.messages[chatUpdate.messages.length - 1];
+
+  // Check if the message is not null
+  if (!message) return;
+
+  // Log the incoming message
+  console.log(`Incoming Message: ${message.text}`);
+}
