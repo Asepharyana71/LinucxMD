@@ -97,28 +97,28 @@ const defaultMenu = {
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command }) => {
 
-  if (m.isGroup && !global.db.data.chats[m.chat].menu) {
-    throw `Admin telah mematikan menu`;
-  }
+    if (m.isGroup && !global.db.data.chats[m.chat].menu) {
+        throw `Admin telah mematikan menu`;
+    }
 
-  let tags = {
-    'main': 'Main',
-    'ai': 'Ai feature',
-    'waifu': 'Random Anime',
-    'anime': 'Anime Menu',
-    'downloader': 'Sosial Downloader',
-    'ytdl': 'Youtube Downloader',
-    'sticker': 'Sticker',
-    'quotes' : 'quotes',
-    'internet': 'Internet',
-    'game': 'game',
-    'fun': 'fun',
-    'owner': 'Owner',
-    'group': 'Group',
-    'info': 'Info',
-    'tools': 'Tools',
-    
-  }
+    let tags = {
+        'main': 'Main',
+        'ai': 'Ai feature',
+        'waifu': 'Random Anime',
+        'anime': 'Anime Menu',
+        'downloader': 'Sosial Downloader',
+        'ytdl': 'Youtube Downloader',
+        'sticker': 'Sticker',
+        'quotes': 'quotes',
+        'internet': 'Internet',
+        'game': 'game',
+        'fun': 'fun',
+        'owner': 'Owner',
+        'group': 'Group',
+        'info': 'Info',
+        'tools': 'Tools',
+
+    }
 
     try {
         // DEFAULT MENU
@@ -380,59 +380,71 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command }) => {
                         }, mentions: [m.sender]
                     }
                 }, { quoted: fkon });
-            } catch (e) {
+            }
+            catch (e) {
                 conn.reply(m.chat, 'Maaf, menu sedang error', m)
                 throw e
             }
         }
-        handler.help = ['menu']
-        handler.tags = ['main']
-        handler.command = /^(allmenu|menu|help|\?)$/i
-
-        handler.register = true
-        handler.exp = 3
-
-        export default handler
-
-        //----------- FUNCTION -------
-
-        function pickRandom(list) {
-            return list[Math.floor(Math.random() * list.length)]
-        }
-
-        const more = String.fromCharCode(8206)
-        const readMore = more.repeat(4001)
-
-        function clockString(ms) {
-            let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000)
-            let m = isNaN(ms) ? '--' : Math.floor(ms / 60000) % 60
-            let s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60
-            return [h, ' H ', m, ' M ', s, ' S '].map(v => v.toString().padStart(2, 0)).join('')
-        }
-        function clockStringP(ms) {
-            let ye = isNaN(ms) ? '--' : Math.floor(ms / 31104000000) % 10
-            let mo = isNaN(ms) ? '--' : Math.floor(ms / 2592000000) % 12
-            let d = isNaN(ms) ? '--' : Math.floor(ms / 86400000) % 30
-            let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000) % 24
-            let m = isNaN(ms) ? '--' : Math.floor(ms / 60000) % 60
-            let s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60
-            return [ye, ' *Years 🗓️*\n', mo, ' *Month 🌙*\n', d, ' *Days ☀️*\n', h, ' *Hours 🕐*\n', m, ' *Minute ⏰*\n', s, ' *Second ⏱️*'].map(v => v.toString().padStart(2, 0)).join('')
-        }
-        function ucapan() {
-            const time = moment.tz('Asia/Jakarta').format('HH')
-            let res = "Kok Belum Tidur Kak? 🥱"
-            if (time >= 4) {
-                res = "Pagi Kak 🌄"
-            }
-            if (time >= 10) {
-                res = "Siang Kak ☀️"
-            }
-            if (time >= 15) {
-                res = "Sore Kak 🌇"
-            }
-            if (time >= 18) {
-                res = "Malam Kak 🌙"
-            }
-            return res
-        }
+    }
+    catch (e) {
+        conn.reply(m.chat, 'Maaf, menu sedang error', m)
+        throw e
+    }
 }
+
+
+
+
+
+handler.help = ['menu']
+handler.tags = ['main']
+handler.command = /^(allmenu|menu|help|\?)$/i
+
+handler.register = true
+handler.exp = 3
+
+export default handler
+
+//----------- FUNCTION -------
+
+function pickRandom(list) {
+    return list[Math.floor(Math.random() * list.length)]
+}
+
+const more = String.fromCharCode(8206)
+const readMore = more.repeat(4001)
+
+function clockString(ms) {
+    let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000)
+    let m = isNaN(ms) ? '--' : Math.floor(ms / 60000) % 60
+    let s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60
+    return [h, ' H ', m, ' M ', s, ' S '].map(v => v.toString().padStart(2, 0)).join('')
+}
+function clockStringP(ms) {
+    let ye = isNaN(ms) ? '--' : Math.floor(ms / 31104000000) % 10
+    let mo = isNaN(ms) ? '--' : Math.floor(ms / 2592000000) % 12
+    let d = isNaN(ms) ? '--' : Math.floor(ms / 86400000) % 30
+    let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000) % 24
+    let m = isNaN(ms) ? '--' : Math.floor(ms / 60000) % 60
+    let s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60
+    return [ye, ' *Years 🗓️*\n', mo, ' *Month 🌙*\n', d, ' *Days ☀️*\n', h, ' *Hours 🕐*\n', m, ' *Minute ⏰*\n', s, ' *Second ⏱️*'].map(v => v.toString().padStart(2, 0)).join('')
+}
+function ucapan() {
+    const time = moment.tz('Asia/Jakarta').format('HH')
+    let res = "Kok Belum Tidur Kak? 🥱"
+    if (time >= 4) {
+        res = "Pagi Kak 🌄"
+    }
+    if (time >= 10) {
+        res = "Siang Kak ☀️"
+    }
+    if (time >= 15) {
+        res = "Sore Kak 🌇"
+    }
+    if (time >= 18) {
+        res = "Malam Kak 🌙"
+    }
+    return res
+}
+
